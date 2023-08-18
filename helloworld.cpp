@@ -5,6 +5,8 @@ int main()
     int a,b;
     int sum;
     sum=a+b;
+    int diff=a-b;
     cout<<sum<<endl;
+    cout<<diff<<endl;
     cout<<"hello World"<<endl;
 }
